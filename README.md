@@ -12,12 +12,15 @@ Intended data type coverages include:
 - projects
 - publications
 - institutions
+- research funding
 - samples
+- sample collection context - field stations, cores, stratigraphy
 - sample preparation
 - curation of samples and prepared sub-fractions
 - prepared analytical targets (e.g. thin sections, volcanic ash mounts)
 - analytical instruments
 - analytical methods
+- instrument sessions (batches)
 - grain size data
 - geochemical data
 - images, both optical and electron microscopy
